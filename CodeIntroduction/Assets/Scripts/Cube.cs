@@ -12,9 +12,9 @@ public class Cube : MonoBehaviour
     {
         transform.name = ImproveName(newName);
         
-        if (true)
+        if (isRotated)
         {
-            
+            transform.localEulerAngles = Vector3.one * 45;
         }
     }
 

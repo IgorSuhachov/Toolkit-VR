@@ -409,4 +409,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   sizeModifier: 2.5
   newName: YellowCube
-  isRotated: 0
+  isRotated: 1
