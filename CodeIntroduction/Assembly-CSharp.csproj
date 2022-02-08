@@ -37,6 +37,7 @@
   </PropertyGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\Cube.cs" />
+     <Compile Include="Assets\Scenes\GameController.cs" />
     <Reference Include="UnityEngine">
         <HintPath>D:\Program Files (x86)\Unity Hub\2020.3.23f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
     </Reference>
